@@ -16,6 +16,7 @@
 ![alt text](https://github.com/chrisferreyra13/mri_brain_cancer_segmentation-tensorflow/blob/main/loss.png "Loss Function")
 ![alt text](https://github.com/chrisferreyra13/mri_brain_cancer_segmentation-tensorflow/blob/main/iou.png "IOU Metric")
 ![alt text](https://github.com/chrisferreyra13/mri_brain_cancer_segmentation-tensorflow/blob/main/dice_coeff.png "Dice Coefficient")
+![alt text](https://github.com/chrisferreyra13/mri_brain_cancer_segmentation-tensorflow/blob/main/results.png "Results")
 
 ## Segmentation Tool
 ![alt text](https://github.com/chrisferreyra13/mri_brain_cancer_segmentation-tensorflow/blob/main/segmentation_result.png "Segmentation Result")
